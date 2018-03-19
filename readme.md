@@ -15,8 +15,8 @@
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
+[image1] ./solidYellowCurve.jpg "example"
+[image2] ./challenge.gif "challenge"
 ---
 
 ## Reflection
@@ -36,11 +36,11 @@ Also due to rough road and sudden changes in road color its necessary to find an
 
 #### Example of processed image:
 
-![Processed Image](.\solidYellowCurve.jpg)
+![image1]
 
 #### Challenge video
 
-![Challenge Video](.\challenge.gif)
+![image2]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
