@@ -13,10 +13,6 @@
 8. Plot the lane lines on the image
 
 
-[//]: # (Image References)
-
-[image1] ./solidYellowCurve.jpg "example"
-[image2] ./challenge.gif "challenge"
 ---
 
 ## Reflection
@@ -36,11 +32,11 @@ Also due to rough road and sudden changes in road color its necessary to find an
 
 #### Example of processed image:
 
-![image1]
+![Processed Image](./solidYellowCurve.jpg?raw=true "Processed Image")
 
 #### Challenge video
 
-![image2]
+![Challenge](./challenge.gif?raw=true "Challenge")
 
 
 ### 2. Identify potential shortcomings with your current pipeline
